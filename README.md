@@ -14,7 +14,7 @@ Embedded micro controllers that compose edge computing have advantages as follow
 * Model - A mathmetical representation that can make decision or prediction based on input data
 * Data - The fuel that powers machine learning and needs to be cleaned and preprocessed before used
 * Training - Train a model on a dataset to teach it how to make decision or prediction
-* Inference - Use the trained model to make predictions on new unseen data.
+* Inference - Use the trained model to make predictions on new unseen data.  
 Digital Signal Processing (DSP) is the key component of many machine learning algorithms, as it can extract features from data such as frequency, amplitude, and phase. These features can be used to train models that can recoganize patterns in the data.  
 Loss function is used to calculate the gap between the prediction and expected result. Multiple epochs will help to train the model to minimize the error.  
 
